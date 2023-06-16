@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/gmrandazzo/gmrandazzo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm (trying to be) a cheminformatics data scientist currently.
+I have been doing cheminformatic development since 2008 in C/C++ and python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Linux/Unix enthusiast and an open-source supporter.
+My favorite Linux distributions are Gentoo, Debian, Fedora, and my preferred desktop environment is KDE plasma.
 
-### Markdown
+To name a few of my open-source contributions:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [CatBoost](https://github.com/catboost/catboost/pull/1680/) enabled CatBoost to run multi-task regression with missing values on targets
+* [DeepMolecularNetwork](https://github.com/gmrandazzo/DeepMolecularNetwork) some command line software to build deep learning models and make predictions using tabular values, images, smiles string and voxel molecular representations
+* [QStudioMetrics](https://github.com/gmrandazzo/QStudioMetrics) software for doing multivariate statistical analysis (PCA/PLS)
+* [PyLSS](https://github.com/gmrandazzo/PyLSS) software that implements the [LSS theory developed by Dolan and Snyder](https://www.chromatographytoday.com/article/bioanalytical/40/imre_molnr_hans-jrgen_rieger_rbert_kormny/chromatography_modelling_in_high_performance_liquid_chromatography_method_development/1387) to run liquid chromatography modeling
+* [MolecularFramework](https://github.com/gmrandazzo/MolecularFramework) a C/C++ library/tool to run molecular modeling and cheminformatic QSAR/QSPR modeling
+* [libscientific](https://github.com/gmrandazzo/libscientific) a C library that implements the multivariate analysis algorithms and also other numerical algorithms (Python bindings available).
+* [ChemSpaceTracker](https://github.com/gmrandazzo/ChemSpaceTracker) a tool to build and visualize chemical spaces using principal component analysis and molecular descriptors
+* [MsMsSpectralAnalysis](https://github.com/gmrandazzo/MsMsSpectralAnalysis) a tool to analyze and compare MS/MS fragmentation spectra with databases 
+* [DynMetId](https://github.com/gmrandazzo/DynMetId) a metabolite tool identification that power the web engine [Dynasti](https://dynasti.vital-it.ch/)
+* and so on... 
 
-```markdown
-Syntax highlighted code block
+| Things I'm  cooking... live |                         |                         |
+| --------------------------- |-------------------------|:-----------------------:|
+|![Alt Text](https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_Conformer_Aligment.gif)|![Alt Text](https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_VDWShape_Aligmnent.gif)|![Alt Text](https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/EpotCalc.gif)|
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+During my free time, I enjoy staying with my family, playing french horn, rolling with my inline skates, hacking my old computers, and actively supporting the open-source community as I can: [Linux](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r), [Mindguard](https://github.com/asbestomolesto/mindguard), ... 
 
-[Link](url) and ![Image](src)
-```
+[Here](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en) you can find my scientific papers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmrandazzo/gmrandazzo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gmrandazzo.gmrandazzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Contact
+
+📫 email: gmrandazzo AT gmail DOT com
+
+🌐 [linkedin](https://www.linkedin.com/in/gmrandazzo)
+
+🧪 [google scholar](https://scholar.google.com/citations?user=wVq-c3IAAAAJ)
+
