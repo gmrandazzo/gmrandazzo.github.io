@@ -38,11 +38,12 @@ During my free time, I enjoy staying with my family, playing french horn, rollin
 
 
 
-### Contact
+### Contacts
 
-📫 email: gmrandazzo AT gmail DOT com
+📫 e-mail: gmrandazzo AT gmail DOT com
 
-🌐 [linkedin](https://www.linkedin.com/in/gmrandazzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
 
-🧪 [google scholar](https://scholar.google.com/citations?user=wVq-c3IAAAAJ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" width="100px"/>](https://scholar.google.com/citations?user=wVq-c3IAAAAJ)
+
 
