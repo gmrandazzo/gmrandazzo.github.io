@@ -110,9 +110,7 @@
 
   <tr>
     <td width="260" align="center">
-      <a href="https://github.com/gmrandazzo/QStudioMetrics">
-        <img src="https://raw.githubusercontent.com/gmrandazzo/QStudioMetrics/master/vars/qsmgui.png" width="230" alt="QStudioMetrics GUI"/>
-      </a>
+      <img src="./assets/img/qsmgui.png" width="230" alt="QStudioMetrics GUI"/>
     </td>
     <td align="left">
       <a href="https://github.com/gmrandazzo/QStudioMetrics"><b>QStudioMetrics: C++20 Multivariate & QSAR Suite</b></a><br/>
@@ -125,11 +123,9 @@
 
   <tr>
     <td width="260" align="center">
-      <a href="https://github.com/gmrandazzo/MolecularFramework">
-        <img src="https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_Conformer_Aligment.gif" width="240" alt="Conformer Alignment" title="ICP Conformer Alignment"/><br/>
-        <img src="https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_VDWShape_Aligmnent.gif" width="118" alt="Shape Alignment" title="VDW Shape Alignment"/>
-        <img src="https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/EpotCalc.gif" width="118" alt="Electrostatic Potential" title="Electrostatic Potential Calculation"/>
-      </a>
+      <img src="./assets/img/icp_conformer.gif" width="240" alt="ICP Conformer Alignment"/><br/>
+      <img src="./assets/img/icp_vdwshape.gif" width="118" alt="VDW Shape Alignment"/>
+      <img src="./assets/img/epotcalc.gif" width="118" alt="Electrostatic Potential"/>
     </td>
     <td align="left">
       <a href="https://github.com/gmrandazzo/MolecularFramework"><b>MolecularFramework: 3D Conformer & Electrostatic Field Engine</b></a><br/>
