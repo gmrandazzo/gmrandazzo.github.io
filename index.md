@@ -8,63 +8,45 @@
 [![GitHub](https://img.shields.io/badge/GitHub-gmrandazzo-181717?style=flat&logo=github)](https://github.com/gmrandazzo)
 [![Email](https://img.shields.io/badge/Email-gmrandazzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gmrandazzo@gmail.com)
 
-> **Translational Computational Chemist, Cheminformatics & AI Architect** with 15+ years of experience designing and shipping production-grade cheminformatics solutions, bridging molecular biophysics, generative & agentic AI, and high-performance computing (C/C++, CUDA, Python). 
-> 
-> Proven industry track record discovering and advancing small-molecule therapeutics **from in silico design directly into IND-enabling studies and Phase 1 human clinical trials**.
+> I take drug discovery programs from computational design to the clinic. Over the past 15+ years, I have designed and shipped production cheminformatics software, physics-based simulations, and machine learning systems in C, C++, CUDA, and Python.
+>
+> The computational discovery pipelines I led at Endogena Therapeutics helped advance **one small-molecule candidate into human clinical trials and a second to IND approval**. At Chemify, I lead the computational architecture across **6+ commercial discovery programs** for global pharma and biotech partners, combining trillion-scale chemical space search, biomolecular cofolding, and free-energy methods.
 
 ---
 
-## Key Translational & Industry Milestones
+## Key Industry Outcomes
 
-* **From In Silico to Human Clinical Trials (Endogena Therapeutics)**  
-  Architected and executed machine learning and structure-based discovery pipelines that directly identified and progressed **1 small-molecule candidate into human clinical trials and a 2nd compound to IND approval**, generating core composition-of-matter patents.
-
-* **Ultra-Large Chemical Space Exploration (Chemify Ltd.)**  
-  Engineered de novo molecular generation and synthon-space indexing algorithms capable of querying **multi-trillion virtual compound spaces in under 180 ms** for automated robotic synthesis, accelerating DMTA cycles for global partners including the **Gates Foundation**, **Dewpoint Therapeutics**, and multiple confidential pharmaceutical and biotech clients.
-
-* **Commercial Pipeline Velocity & Series B Technical Foundation (Chemify Ltd.)**  
-  Led computational drug design across 6+ commercial target portfolios with a **100% project progression rate** (zero early terminations), delivering potency-enhanced lead series across diverse modalities and building foundational computational capabilities that supported the launch of an automated synthesis facility and a **$50M Series B financing**.
-
-* **Core Open-Source Machine Learning (CatBoost / Hoffmann-La Roche)**  
-  Authored native multi-task regression with missing value support in Yandex's **[CatBoost](https://github.com/catboost/catboost/pull/1680)** (PR #1680), solving the sparse experimental bioassay matrix problem for industrial drug discovery.
+* **From In Silico to Human Clinical Trials (Endogena Therapeutics)**: Led the machine learning and structure-based design pipelines behind **1 small-molecule candidate in human clinical trials and a 2nd compound advanced to IND**, co-authoring core composition-of-matter patents.
+* **Trillion-Scale Chemical Space Search (Chemify Ltd.)**: Built de novo generation and synthon-space indexing algorithms that query **multi-trillion virtual compound spaces in under 180 ms** to drive automated robotic synthesis for the **Gates Foundation**, **Dewpoint Therapeutics**, and confidential biopharma partners.
+* **Commercial Pipeline Delivery (Chemify Ltd.)**: Led computational design across 6+ target portfolios with a **100% project progression rate** (zero early terminations), delivering potency-enhanced lead series and building foundational computational tools that supported a new automated synthesis facility and a **$50M Series B financing**.
+* **Core Open-Source Machine Learning (CatBoost / Hoffmann-La Roche)**: Authored native multi-task regression with missing-value support in Yandex's **[CatBoost](https://github.com/catboost/catboost/pull/1680)** (PR #1680), solving the sparse experimental bioassay matrix problem common in industrial screening.
 
 ---
 
-## Industry & Research Experience
+## Experience
 
-* **Staff Scientist** | **Chemify Ltd.** *(Glasgow, UK & Lugano, Switzerland)* | `2023 - Present`  
-  Lead computational architect for trillion-scale de novo molecular generation, biomolecular cofolding (Boltz-2 fine-tuning), and multi-parameter lead optimization (potency, metabolic stability, SAScore) across 6+ commercial discovery programs for public and confidential biopharma partners.
+* **Staff Computational Scientist** | **Chemify Ltd.** *(Glasgow, UK & Lugano, Switzerland)* | `2023 - Present`  
+  Lead computational architect for trillion-scale de novo molecular generation, biomolecular cofolding (Boltz-2 fine-tuning), autonomous agentic DMTA workflows, and multi-parameter lead optimization across commercial programs.
 
 * **Head of AI and Cheminformatics** | **Endogena Therapeutics** *(Zurich, Switzerland)* | `2021 - 2023`  
-  Directed AI and computational chemistry discovery pipelines for regenerative medicine; advanced 1 candidate into clinical trials and 1 candidate to IND. Architected distributed multi-GPU compute infrastructure and scientific data platforms.
+  Directed AI, QSAR/QSPR, and structure-based discovery for regenerative medicine and fibrosis; architected the company's multi-GPU compute infrastructure and scientific data platforms.
 
 * **Postdoctoral Research Scientist** | **Hoffmann-La Roche** *(Basel, Switzerland)* | `2019 - 2021`  
-  Researched multi-task deep learning and gradient boosting architectures for on-target potency and off-target safety profiling across sparse high-throughput screening matrices; contributed core multi-task engine to CatBoost.
+  Developed multi-task deep learning and gradient boosting methods for on-target potency and off-target safety profiling across sparse screening matrices.
 
 * **Research Scientist** | **Dalle Molle Institute for Artificial Intelligence (IDSIA)** *(Lugano, Switzerland)* | `2017 - 2019`  
-  Pioneered 3D geometric deep learning and voxelized quantum/electrostatic molecular representations for early-stage drug discovery and biomarker identification (Innosuisse ARCADIA project).
+  Pioneered 3D geometric deep learning on voxelized quantum and electrostatic molecular fields for early-stage drug discovery (Innosuisse ARCADIA project).
 
 * **Postdoctoral Researcher & External CADD Consultant** | **University of Geneva & Firmenich** *(Geneva, Switzerland)* | `2014 - 2017`  
-  Discovered novel LIM Kinase inhibitors via structure-based modeling as an independent CADD consultant; engineered machine learning platforms for physicochemical property prediction in collaboration with the Swiss Institute of Bioinformatics (Vital-IT).
+  Independently discovered novel LIM Kinase inhibitors via structure-based modeling; built physicochemical property prediction platforms with the Swiss Institute of Bioinformatics (Vital-IT).
 
 ---
 
-## Core Scientific & Technical Pillars
+## Core Capabilities & Stack
 
-### 1. Biomolecular Cofolding & Structure-Based Drug Design
-* **All-Atom Cofolding & Affinity Ranking**: Fine-tuning and deploying cofolding architectures (Boltz-2, AlphaFold) for simultaneous protein-ligand complex prediction, pocket conditioning, and binding affinity estimation.
-* **Physics-Based Free Energy Simulations**: Relative Binding Free Energy (RBFE via OpenFE and AMBER-TI), Molecular Dynamics (MD), and QM/MM calculations to guide medicinal chemistry synthesis.
-* **Challenging Target Classes, Modalities & Therapeutic Areas**: Proven track record across **Ion Channels, Protein-Protein Interactions (PPIs), Peptidomimetics, Small Molecules, Kinases, Sirtuins, HDACs, and Epigenetic targets**, spanning Oncology, Regenerative Medicine, Fibrosis (IPF), CNS/Neurobiology, and Infectious Diseases.
-
-### 2. Production Cheminformatics & High-Performance Scientific Computing
-* **End-to-End Cheminformatics Solutions**: Designing and shipping production-grade toolchains for ultra-large chemical library enumeration, molecular descriptor/fingerprint generation, chemical space mapping, and QSAR/QSPR modeling.
-* **Zero-Dependency Numerical Engines**: Author of **[libscientific](https://github.com/gmrandazzo/libscientific)** (published in *JOSS*), an ANSI C99 library implementing NIPALS PCA, PLS, Consensus PCA, Nelder-Mead optimization, and SVD with Python FFI bindings.
-* **Cross-Platform Analytical Suites & GPU Acceleration**: Creator of **[QStudioMetrics](https://github.com/gmrandazzo/QStudioMetrics)** (C++20 desktop suite) and high-throughput C/C++ and CUDA algorithms designed for distributed multi-GPU HPC environments.
-
-### 3. Agentic AI Workflows, Multi-Parameter Optimization (MPO) & Autonomous DMTA
-* **Agentic Discovery & Tool-Use Systems**: Designing autonomous LLM- and agent-driven workflows (RAG, scientific reasoning, and multi-agent tool orchestration) that connect unstructured literature/patent intelligence directly to executable cheminformatics, cofolding, and simulation pipelines.
-* **Multi-Parameter Lead Optimization (MPO)**: Simultaneous optimization of potency, target selectivity, ADMET properties, physicochemical profiles (logD, solubility, permeability), and synthetic accessibility (SAScore / retrosynthesis).
-* **Closed-Loop DMTA Integration**: Active learning, Bayesian optimization, and uncertainty quantification integrated into automated Design-Make-Test-Analyze (DMTA) cycles.
+* **Structure, Physics & Target Modalities**: Boltz-2 and AlphaFold cofolding, Relative Binding Free Energy (OpenFE RBFE, AMBER-TI), Molecular Dynamics, QM/MM, docking (GOLD, AutoDock, DiffDock). Applied across **Ion Channels, Protein-Protein Interactions (PPIs), Peptidomimetics, Small Molecules, Kinases, HDACs, Sirtuins, and Epigenetics** *(Oncology, Regenerative Medicine, Fibrosis/IPF, CNS, Infectious Disease)*.
+* **Cheminformatics, Machine Learning & Agentic AI**: Production cheminformatics (RDKit, synthon indexing, QSAR/QSPR, NIPALS PCA, PLS, Consensus PCA), Multi-Task Learning, 3D Voxel CNNs, GNNs, PyTorch, CatBoost, and autonomous LLM/agentic workflows (RAG and multi-agent tool orchestration connecting literature/patent data to simulation pipelines).
+* **High-Performance Engineering & MLOps**: Modern C++ (C++20), ANSI C (C99), CUDA, Python (ctypes/C-API/FFI), Go, Rust; Apache Airflow, Dagster, MLflow, Kubernetes, Docker, and multi-GPU Linux HPC clusters.
 
 ---
 
@@ -144,7 +126,7 @@
       <a href="https://github.com/gmrandazzo/DeepMolecularNetwork"><b>DeepMolecularNetwork: 3D Quantum & Electrostatic Voxel CNNs</b></a><br/>
       Multi-modal deep learning framework utilizing 3D voxelized grids of quantum/force-field electrostatic potentials (B3LYP CHELPG, MMFF94, EEM) and electron density for physicochemical property prediction.<br/><br/>
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021967319310830">
-        <img src="https://img.shields.io/badge/Paper-ScienceDirect%20(2021)-b31b1b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Paper-J.%20Chromatogr.%20A%20(2020)-b31b1b?style=flat-square" />
       </a>
       <a href="https://github.com/gmrandazzo/DeepMolecularNetwork">
         <img src="https://img.shields.io/badge/Code-DeepMolecularNetwork-black?logo=github&style=flat-square" />
@@ -179,25 +161,12 @@
 
 ---
 
-## Technical Competencies
-
-| Domain | Methods & Technologies |
-| :--- | :--- |
-| **Targets, Modalities & Disease Areas** | Ion Channels, Protein-Protein Interactions (PPIs), Peptidomimetics, Small Molecules, Kinases, HDACs/Sirtuins, Epigenetics *(Oncology, Regenerative Medicine, Fibrosis, Infectious Disease)* |
-| **Biomolecular Modeling & CADD** | Boltz-2, AlphaFold, OpenFE (RBFE), AMBER-TI, Molecular Dynamics, GOLD, AutoDock, DiffDock, QM/MM |
-| **Generative AI, Agents & Machine Learning** | Agentic AI Workflows, LLMs, RAG, Tool-Use Orchestration, PyTorch, CatBoost, Scikit-Learn, Multi-Task Learning, Geometric Deep Learning, 3D Voxel CNNs, GNNs |
-| **High-Performance Languages** | Modern C++ (C++20), ANSI C (C99), Python (ctypes/C-API/FFI), CUDA, Go, Rust, Bash, SQL |
-| **Cheminformatics & Analytics** | RDKit, Multi-Parameter Optimization (MPO), QSAR/QSPR, NIPALS PCA, PLS, Consensus PCA, LC-MS/MS, GCxGC |
-| **MLOps, Compute & Infrastructure** | Apache Airflow, Dagster, MLflow, Multi-GPU HPC Clusters, Kubernetes, Docker, Linux/GNU Toolchain, AWS (EC2, S3), Git, CI/CD |
-
----
-
 ## Selected Publications
 
 - **libscientific: A Powerful C Library for Multivariate Analysis**  
   *G. M. Randazzo* - *The Journal of Open Source Software (JOSS)*, 8(87), 5420 (2023). [DOI: 10.21105/joss.05420](https://doi.org/10.21105/joss.05420)
 - **Steroid identification via deep learning retention time predictions and two-dimensional gas chromatography-high resolution mass spectrometry**  
-  *G. M. Randazzo, A. Bileck, A. Danani, B. Vogt, M. Groessl* - *Journal of Chromatography A*, 1640, 461965 (2021). [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0021967319310830) / [DOI: 10.1016/j.chroma.2019.460661](https://doi.org/10.1016/j.chroma.2019.460661)
+  *G. M. Randazzo, A. Bileck, A. Danani, B. Vogt, M. Groessl* - *Journal of Chromatography A*, 1612, 460661 (2020). [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0021967319310830) / [DOI: 10.1016/j.chroma.2019.460661](https://doi.org/10.1016/j.chroma.2019.460661)
 - **DynaStI: A Dynamic Retention Time Database for Steroidomics**  
   *S. Codesido, G. M. Randazzo, F. Lehmann, et al.* - *Metabolites*, 9(12), 291 (2019). [DOI: 10.3390/metabo9120291](https://doi.org/10.3390/metabo9120291)
 - **A Rational Approach for the Identification of Non-Hydroxamate HDAC6-Selective Inhibitors**  
@@ -220,16 +189,13 @@
 
 ---
 
-## Evolution of My Work, Open-Source Philosophy & Beyond the Lab
+## Beyond the Lab
 
-I have been crafting cheminformatics and drug discovery software since 2008, writing C, C++, and Python (and more recently **Go** and **Rust**) to analyze, visualize, and predict molecular properties, turning complex chemical data into real-world therapeutic discoveries.
+I have been writing scientific and cheminformatics software from first principles since 2008, long before modern AI assistants, and today I combine that mathematical and systems foundation with generative and agentic tools to move faster at scale.
 
-* **Pre-Agent Era: Proven Success in Drug Discovery, Cheminformatics, QSAR/QSPR Modeling & Chemometrics (2008 - 2022)**: Long before the rise of modern LLMs and AI agents, my work in **drug discovery, cheminformatics, QSAR/QSPR modeling, and multivariate chemometrics** was already delivering clinical and industrial impact through pure mathematical, biophysical, and software engineering rigor. Over this period, I drove structure- and ligand-based drug discovery programs (docking, pharmacophore modeling, QM/MM, molecular dynamics, QSAR/QSPR, and chemometrics) that advanced **1 small-molecule candidate into human clinical trials and a 2nd compound to IND approval**, alongside experimentally validated hits across Kinases (LIMK), HDAC6, Sirtuins, and oncology targets. In parallel, I architected and hand-coded zero-dependency C99 chemometrics and numerical engines (`libscientific`), C++20 QSAR/multivariate suites (`QStudioMetrics`), 3D conformer/electrostatic field cheminformatics toolchains (`MolecularFramework`), 3D quantum/electrostatic voxel CNNs (`DeepMolecularNetwork`), physicochemical/metabolomics platforms (`DynaStI`, `PyLSS`), and C++ multi-task gradient boosting kernels (`CatBoost PR #1680`) entirely from the ground up.
-* **Post-Agent Era: Accelerating Drug Discovery, Cheminformatics & QSAR/Chemometrics Velocity at Scale (2023 - Present)**: Today, that same foundation in **drug discovery, production cheminformatics, QSAR/QSPR modeling, and chemometrics** remains the core of my work. Integrating all-atom biomolecular cofolding (Boltz-2 fine-tuning, AlphaFold), physics-based free energy perturbation (OpenFE RBFE, AMBER-TI), trillion-scale cheminformatics synthon exploration (<180 ms), and autonomous agentic workflows acts purely as a speed and throughput accelerator, allowing me to execute established drug discovery, QSAR/QSPR, and multi-parameter lead optimization pipelines much faster across Ion Channels, PPIs, Peptidomimetics, and Small Molecules.
+At heart, I am a lifelong Linux/Unix enthusiast (Gentoo, Debian, Fedora with KDE Plasma) and open-source builder. Outside of drug discovery, my projects include **[CheapSecurity](https://github.com/gmrandazzo/CheapSecurity)** (self-hosted CCTV for Linux single-board computers, 220+ stars), **[DeepMatrixInversion](https://github.com/gmrandazzo/DeepMatrixInversion)**, **[TOO](https://github.com/gmrandazzo/TOO)** (TensorFlow on Odroid), upstream **[Linux Kernel](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r)** patches, and **[Mindguard](https://github.com/asbestomolesto/mindguard)**.
 
-At heart, I am a lifelong **Linux/Unix enthusiast** (Gentoo, Debian, and Fedora with KDE Plasma) and a committed supporter of the open-source ecosystem. Beyond computational chemistry, I enjoy building general-purpose open-source software and embedded systems projects, including **[CheapSecurity](https://github.com/gmrandazzo/CheapSecurity)** (a privacy-first, self-hosted CCTV system for Linux single-board computers with 220+ GitHub stars), **[DeepMatrixInversion](https://github.com/gmrandazzo/DeepMatrixInversion)** (neural network matrix inversion), **[TOO](https://github.com/gmrandazzo/TOO)** (running TensorFlow on Odroid embedded hardware), upstream contributions to the **[Linux Kernel](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r)**, and community tools like **[Mindguard](https://github.com/asbestomolesto/mindguard)**.
-
-Outside of computational science, I am an avid **distance runner**, holding a **[1h 14m Half Marathon (21.1 km) personal best](https://apiah.endu.net/events/99979/result/259/diploma)** *(finishing 70th out of 10,806 overall participants and 9th out of 640 in the SM40 category)*, and enjoy spending time with my family, playing the **French horn**, **inline skating**, and restoring vintage computing hardware.
+When I am away from a terminal, I am an avid distance runner with a **[1h 14m Half Marathon (21.1 km) personal best](https://apiah.endu.net/events/99979/result/259/diploma)** *(70th of 10,806 overall; 9th of 640 in SM40)*, and I enjoy spending time with my family, playing the French horn, inline skating, and restoring vintage computers.
 
 ---
 
