@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gmrandazzo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-gmrandazzo-181717?style=flat&logo=github)](https://github.com/gmrandazzo)
-[![JOSS Publication](https://joss.theoj.org/papers/10.21105/joss.05420/status.svg)](https://doi.org/10.21105/joss.05420)
 [![Email](https://img.shields.io/badge/Email-gmrandazzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gmrandazzo@gmail.com)
 
 > **Translational Computational Chemist, Cheminformatics & AI Architect** with 15+ years of experience designing and shipping production-grade cheminformatics solutions, bridging molecular biophysics, generative & agentic AI, and high-performance computing (C/C++, CUDA, Python). 
@@ -74,9 +73,7 @@
 <table width="100%">
   <tr>
     <td width="260" align="center">
-      <a href="https://github.com/gmrandazzo/libscientific">
-        <img src="https://joss.theoj.org/papers/10.21105/joss.05420/status.svg" width="210" alt="libscientific JOSS"/>
-      </a>
+      <img src="./assets/img/joss_badge.svg" width="210" alt="libscientific JOSS"/>
     </td>
     <td align="left">
       <a href="https://github.com/gmrandazzo/libscientific"><b>libscientific: Zero-Dependency C Numerical Engine</b></a><br/>
