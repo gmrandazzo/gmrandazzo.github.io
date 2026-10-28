@@ -4,7 +4,7 @@
 **Lugano, Switzerland**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gmrandazzo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=wVq-c3IAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-gmrandazzo-181717?style=flat&logo=github)](https://github.com/gmrandazzo)
 [![Email](https://img.shields.io/badge/Email-gmrandazzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gmrandazzo@gmail.com)
 
@@ -205,7 +205,7 @@
 - **Discovery of Novel, Potent, and Specific Cell-Death Inducers in the Jurkat Acute Lymphoblastic Leukemia Cell Line**  
   *E. Carosati, N. van den Hofel, M. Reif, G. M. Randazzo, et al.* - *ChemMedChem*, 10(9), 1541-1554 (2015). [DOI: 10.1002/cmdc.201500222](https://doi.org/10.1002/cmdc.201500222)
 
-*Complete list of 20+ peer-reviewed articles available on [Google Scholar](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en).*
+*Complete list of 20+ peer-reviewed articles available on [Google Scholar](https://scholar.google.com/citations?user=wVq-c3IAAAAJ&hl=en).*
 
 ---
 
@@ -237,5 +237,5 @@ Always happy to connect with fellow scientists, founders, and R&D leaders on AI-
 - **Email**: [gmrandazzo@gmail.com](mailto:gmrandazzo@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gmrandazzo](https://www.linkedin.com/in/gmrandazzo/)
 - **GitHub**: [github.com/gmrandazzo](https://github.com/gmrandazzo)
-- **Google Scholar**: [Giuseppe Marco Randazzo](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en)
+- **Google Scholar**: [Giuseppe Marco Randazzo](https://scholar.google.com/citations?user=wVq-c3IAAAAJ&hl=en)
 - **Location**: Lugano, Switzerland
